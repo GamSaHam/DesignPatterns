@@ -52,7 +52,7 @@ class Relationships implements RelationshipBrowser {
 
 /**
  * high-level
- * low-level 상위 모듈은 하위모듈에서 호출할때 하위모듈은 인터페이스를 통해 접근한다.
+ * low-level 상위 모듈은 하위모듈에서 호출할때 하위모듈의 인터페이스를 통해 접근한다.
  * 확장에 유연하고
  */
 class Research {
